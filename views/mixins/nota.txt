@@ -1,0 +1,1 @@
+Mixins en Pug vienen a ser como Partials en EJS
